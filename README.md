@@ -22,6 +22,12 @@
     - 会后，由本周协调人归纳要点，文档化。
     - 确定下周协调人
 
+# 如果你成为协调人
+- fork 这个 repo
+- 选一个有代表性的实验 notebook，上传到 repo 中，提交 PR
+- 在群中发布消息，notebook 的简要介绍，reviewnb 地址，更新日程
+- 根据上小节内容组织讨论，更新和维护文档
+
 # 如何使用 reviewnb 在 notebook 上
 
 阅读[其文档](https://docs.reviewnb.com/)。
