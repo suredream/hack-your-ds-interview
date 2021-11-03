@@ -12,9 +12,9 @@
 # 如何进行 case-study discussion
 
 每周一次。
-- 会前，由本周协调人选择并发布本周的 notebook (example)，更新日程。
+- 会前，由本周协调人选择并发布本周的 notebook ([example](https://app.reviewnb.com/suredream/hack-your-ds-interview/blob/main/001-titanic-random-forest-82-78.ipynb))，更新日程。
 - 大家通过[reviewnb](https://app.reviewnb.com/suredream/hack-your-ds-interview/)对本周的 notebook 进行 review。
-- 在周末的 [skype meeting](https://join.skype.com/oEwwNpWdq8Ue) 上参与实时讨论
+- 在周末的 [skype meeting](https://join.skype.com/WzRQJuTDFrMe) 上参与实时讨论
   - 本周协调人提供与本周模型有关的资源列表，简要说明其原理、应用前提、优缺点，最佳实践
   - 对大家此前提交的 comment，择要进行点评
   - 自由讨论
@@ -42,7 +42,8 @@
 
 # 日程
 
-|  Date         | Host  | Topic | Desc  | Notebook Link |
+[Skype conference-call](https://join.skype.com/WzRQJuTDFrMe)
+|  Date Time    | Host  | Topic | Desc  | Notebook Link |
 |---------------|-------|-------|-------|---------------|
 | Nov, 13, 2021 | Zhang |       |    |               |
 | Nov, 20, 2021 | Hong Tang          |    |    |  |               |
