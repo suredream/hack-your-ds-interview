@@ -6,8 +6,8 @@
 
 # 如何参与
 
-- 成为社群成员，为本 repo 贡献有效内容。
-- 根据自己的时间尽量参与 case-study discussion，成为协调人。
+- 成为社群成员，为本 repo 贡献有价值的内容或提供反馈。
+- 尽量参与 case-study discussion，成为协调人。
 
 # 如何进行 case-study discussion
 
@@ -15,11 +15,18 @@
 - 会前，由本周协调人选择并发布本周的 notebook (example)，更新日程。
 - 大家通过[reviewnb](https://app.reviewnb.com/suredream/hack-your-ds-interview/)对本周的 notebook 进行 review。
 - 在周末的 [skype meeting](https://join.skype.com/oEwwNpWdq8Ue) 上参与实时讨论
-    - 本周协调人提供与本周模型有关的资源列表，简要说明其原理、应用前提、优缺点，最佳实践
-    - 对大家此前提交的 comment，择要进行点评
-    - 自由讨论
-    - 会后，由本周协调人归纳要点，文档化。
-    - 确定下周协调人
+  - 本周协调人提供与本周模型有关的资源列表，简要说明其原理、应用前提、优缺点，最佳实践
+  - 对大家此前提交的 comment，择要进行点评
+  - 自由讨论
+  - 会后，由本周协调人归纳要点，文档化。
+  - 确定下周协调人
+- Agenda of a case-study discussion (1hr)
+  - 10 min topic intro, concept
+  - 5 min notebook go-through
+  - 5 min existing comments 
+  - 25 min free discussion
+  - 10 min summary
+  - 5 min planning for next meeting
 
 # 如果你成为协调人
 - fork 这个 repo
@@ -31,6 +38,16 @@
 
 阅读[其文档](https://docs.reviewnb.com/)。
 ![](https://uploads-ssl.webflow.com/5ba4ebe021cb91ae35dbf88c/5c7d0095d99ee508018a9878_Screenshot%202019-03-04%20at%204.08.48%20PM.png)
+
+
+# 日程
+
+|  Date         | Host  | Topic | Desc  | Notebook Link |
+|---------------|-------|-------|-------|---------------|
+| Nov, 13, 2021 | Zhang |       |    |               |
+| Nov, 20, 2021 | Hong Tang          |    |    |  |               |
+|               |       |       |       |               |
+
 
 # Guidance
 - [springboard: 109 Data Science Interview Questions and Answers](https://www.springboard.com/blog/data-science/data-science-interview-questions/)
@@ -63,8 +80,8 @@
 
 # Contributor
 
-- suredream: data geoscience
-- zhang
-- hong tang
+- [suredream](https://github.com/suredream): San Francisco, ml dl cv geospatial bigdata mlops
+- [zhang](): Houston, 2+ years DS
+- [hong tang](https://github.com/stanghong): Bakerafield TX, 6+ years DS
 - suping
 
