@@ -1,23 +1,22 @@
-# Hacking your Data Scientist Interview
+# Hacking Your Data Scientist Interview
 
-# About me
+我们是一个交流机器学习实践的社区，通过社群学习的方式来积累机器学习的有效实践、面试经验和知识内容。
 
-Your statistics, programming, and data modeling skills will be put to the test through a variety of questions and question styles that are intentionally designed to keep you on your feet and force you to demonstrate how you operate under pressure.
+欢迎投稿和建议，请[提交 issue](https://github.com/suredream/hack-your-ds-interview/issues)。
 
-# Get Started
+# 如何参与
 
-分成两步，一是通过面试，二是成为一流的数据科学家。short-term, long-term。
+- 成为社群成员，为本 repo 贡献有效内容。
+- 根据自己的时间尽量参与 case-study discussion，成为协调人。
 
-# Where to find the position?
+# 如何进行
 
-# Process
-Recruiter Phone Screen - 30 minutes
-Hiring Manager Phone Screen -  30 minutes
-Technical Phone Screen - 1 hour
-Onsite Interview:
-Quantitative Reasoning/ Geospatial Interview - 1 hour
-Presentation - 1 hour
-DNA/Hiring Sponsor -  30 minutes
+每周一次。
+- 会前，由本周协调人选择并发布本周的 notebook (example)，更新日程。
+- 大家通过[]()
+
+
+# 
 
 
 
