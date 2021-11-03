@@ -56,6 +56,10 @@
   * [**7. 40 questions on Statistics for data scientists & analysts - Part - 1**](https://www.analyticsvidhya.com/blog/2016/08/solutions-for-skilltest-in-statistics-revealed/)
   * [**8. 41 questions on Statistics for data scientists & analysts - Part - 2**](https://www.analyticsvidhya.com/blog/2017/05/41-questions-on-statisitics-data-scientists-analysts/)
 
-# Contribution
+# Contributor
 
-# Donate
+- suredream: data geoscience
+- zhang
+- hong tang
+- suping
+
