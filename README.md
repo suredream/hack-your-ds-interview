@@ -34,13 +34,13 @@
 - 在群中发布消息，notebook 的简要介绍，reviewnb 地址，更新日程
 - 根据上小节内容组织讨论，更新和维护文档
 
-# 如何使用 reviewnb 在 notebook 上
+# 如何使用 reviewnb 在 notebook 上进行评论
 
 阅读[其文档](https://docs.reviewnb.com/)。
 ![](https://uploads-ssl.webflow.com/5ba4ebe021cb91ae35dbf88c/5c7d0095d99ee508018a9878_Screenshot%202019-03-04%20at%204.08.48%20PM.png)
 
 
-# 日程
+# 日程安排
 
 [Skype conference-call](https://join.skype.com/WzRQJuTDFrMe)
 |  Date Time    | Host  | Topic | Desc  | Notebook Link |
@@ -54,12 +54,11 @@
 - [springboard: 109 Data Science Interview Questions and Answers](https://www.springboard.com/blog/data-science/data-science-interview-questions/)
 - [10 Ways to Profit from Job Interview Services with No Coaching](https://careerdirectors.com/profit-job-interview-coaching-strategy-services/)
 
-
 # 飞行规则 flight rules
 - [git 飞行规则](flight-rules/git-filght-rules.md)
 - [ml 飞行规则](flight-rules/ml-flight-rules.md)
 
-# Other
+# Other resource
 * Readlist
     * [**Precison and Recall**](https://en.wikipedia.org/wiki/Precision_and_recall)
     * [**Gradient Boosting from scratch**](https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d)
@@ -79,7 +78,7 @@
   * [**7. 40 questions on Statistics for data scientists & analysts - Part - 1**](https://www.analyticsvidhya.com/blog/2016/08/solutions-for-skilltest-in-statistics-revealed/)
   * [**8. 41 questions on Statistics for data scientists & analysts - Part - 2**](https://www.analyticsvidhya.com/blog/2017/05/41-questions-on-statisitics-data-scientists-analysts/)
 
-# Contributor
+# Contributor list
 
 - [suredream](https://github.com/suredream): San Francisco, ml dl cv geospatial bigdata mlops
 - [zhang](): Houston, 2+ years DS
