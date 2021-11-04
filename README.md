@@ -6,7 +6,7 @@
 
 # 如何参与
 
-- 成为社群成员，为本 repo 贡献有价值的内容或提供反馈。
+- 成为社群成员，为本 repo 和 [wiki](https://github.com/suredream/hack-your-ds-interview/wiki)贡献有价值的内容或提供反馈。
 - 尽量参与weekly review meeting，成为主理人 (host) 和协理人 (facilitator)。
 
 # 如何进行 weekly review meeting
