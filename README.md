@@ -6,7 +6,7 @@
 
 # 如何参与
 
-- 成为社群成员，为本 repo 和 [wiki](https://github.com/suredream/hack-your-ds-interview/wiki)贡献有价值的内容或提供反馈。
+- 成为社群成员，[介绍自己](https://github.com/suredream/hack-your-ds-interview/issues/3)，为本 repo 和 [wiki](https://github.com/suredream/hack-your-ds-interview/wiki) 贡献有价值的内容或提供反馈。
 - 尽量参与weekly review meeting，成为主理人 (host) 和协理人 (facilitator)。
 
 # 如何进行 weekly review meeting
@@ -50,10 +50,10 @@
 # 日程安排
 
 [Skype conference-call](https://join.skype.com/WzRQJuTDFrMe)
-|  Date Time    | Host  | Facilitator | Topic  | Notebook Link |
+|  Date Time    | Host  | Facilitator | 主题  | 详情 |
 |---------------|-------|-------|-------|---------------|
-| Nov, 13, 2021 | Zhang | suredream      |    |               |
-| Nov, 20, 2021 | Hong Tang          |    |    |  |               |
+| Nov, 13, 2021 | Zhang | suredream      |    | [详情](https://github.com/suredream/hack-your-ds-interview/issues/1)              |
+| Nov, 20, 2021 | Hong Tang          |    |    |  | [详情](https://github.com/suredream/hack-your-ds-interview/issues/2)              |
 |               |       |       |       |               |
 
 
