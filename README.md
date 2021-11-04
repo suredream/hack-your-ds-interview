@@ -50,9 +50,9 @@
 # 日程安排
 
 [Skype conference-call](https://join.skype.com/WzRQJuTDFrMe)
-|  Date Time    | Host  | Topic | Desc  | Notebook Link |
+|  Date Time    | Host  | Facilitator | Topic  | Notebook Link |
 |---------------|-------|-------|-------|---------------|
-| Nov, 13, 2021 | Zhang |       |    |               |
+| Nov, 13, 2021 | Zhang | suredream      |    |               |
 | Nov, 20, 2021 | Hong Tang          |    |    |  |               |
 |               |       |       |       |               |
 
