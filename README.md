@@ -90,5 +90,4 @@
 - [suredream](https://github.com/suredream): San Francisco, ml dl cv geospatial bigdata mlops
 - [zhang](): Houston, 2+ years DS
 - [hong tang](https://github.com/stanghong): Bakerafield TX, 6+ years DS
-- suping
 
