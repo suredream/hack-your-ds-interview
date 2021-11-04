@@ -7,32 +7,39 @@
 # 如何参与
 
 - 成为社群成员，为本 repo 贡献有价值的内容或提供反馈。
-- 尽量参与 case-study discussion，成为协调人。
+- 尽量参与weekly review meeting，成为主理人 (host) 和协理人 (facilitator)。
 
-# 如何进行 case-study discussion
+# 如何进行 weekly review meeting
 
-每周一次。
-- 会前，由本周协调人选择并发布本周的 notebook ([example](https://app.reviewnb.com/suredream/hack-your-ds-interview/blob/main/001-titanic-random-forest-82-78.ipynb))，更新日程。
-- 大家通过[reviewnb](https://app.reviewnb.com/suredream/hack-your-ds-interview/)对本周的 notebook 进行 review。
-- 在周末的 [skype meeting](https://join.skype.com/WzRQJuTDFrMe) 上参与实时讨论
-  - 本周协调人提供与本周模型有关的资源列表，简要说明其原理、应用前提、优缺点，最佳实践
-  - 对大家此前提交的 comment，择要进行点评
-  - 自由讨论
-  - 会后，由本周协调人归纳要点，文档化。
-  - 确定下周协调人
-- Agenda of a case-study discussion (1hr)
-  - 10 min topic intro, concept
-  - 5 min notebook go-through
-  - 5 min existing comments 
-  - 25 min free discussion
-  - 10 min summary
-  - 5 min planning for next meeting
+- 会前，由本周 host
+  * 选择并发布本周的 notebook ([example](https://app.reviewnb.com/suredream/hack-your-ds-interview/blob/main/001-titanic-random-forest-82-78.ipynb))
+  * 更新日程到本 repo
+  * 提供与本周 review 有关的参考列表到[这里](https://github.com/suredream/hack-your-ds-interview/issues)。
+- 会前，参与者
+  * 通过[reviewnb](https://app.reviewnb.com/suredream/hack-your-ds-interview/)对本周的 notebook 进行 review。
+  * 提交其它问题到对应的 issues 中。
+- weekly review meeting (1hr)
+  * 会议时间通过本 repo 发布，[skype meeting连接](https://join.skype.com/WzRQJuTDFrMe) 
+  * 由 host 简要说明其原理、应用前提、优缺点，最佳实践 (10 min)
+  * host goes through notebook (motivation, problem, data, model, 5 min)
+  * host 点评之前的评论 (5-10 min)
+  * host drive 自由讨论, facilitator 记笔记。(20-25 min )
+  * host / facilitator 进行小结 (10min)
+  * 确定下期活动的 host 和 facilitator (5min)
 
-# 如果你成为协调人
+# 如果你是 host
 - fork 这个 repo
 - 选一个有代表性的实验 notebook，上传到 repo 中，提交 PR
 - 在群中发布消息，notebook 的简要介绍，reviewnb 地址，更新日程
-- 根据上小节内容组织讨论，更新和维护文档
+- 根据上小节内容组织讨论，分享你了解的知识，提供充足和准确的参考材料
+- 持续地更新和维护文档
+
+# 如果你是 facilitator
+- 不需要你对本议题有很充分的了解，你通过分担 host 工作量的方式来贡献社区
+- 帮助发布活动消息，帮助回答非技术性的问题
+- 在会议过程中记录详细讨论，尝试区分要点和重要信息
+- 讨论结束时，从自己的角度提供小结
+- 会后，生成完整文档供 host 进一步审定
 
 # 如何使用 reviewnb 在 notebook 上进行评论
 
