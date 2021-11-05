@@ -52,8 +52,8 @@
 [Skype conference-call](https://join.skype.com/WzRQJuTDFrMe)
 |  Date Time    | Host  | Facilitator | 主题  | 详情 |
 |---------------|-------|-------|-------|---------------|
-| Nov, 13, 2021 | Zhang | suredream      |    | [详情](https://github.com/suredream/hack-your-ds-interview/issues/1)              |
-| Nov, 20, 2021 | Hong Tang          |    |    |  | [详情](https://github.com/suredream/hack-your-ds-interview/issues/2)              |
+| Nov, 13, 2021 | Zhang | @suredream      |    | [详情](https://github.com/suredream/hack-your-ds-interview/issues/1)              |
+| Nov, 20, 2021 | @stanghong          |    |    |  | [详情](https://github.com/suredream/hack-your-ds-interview/issues/2)              |
 |               |       |       |       |               |
 
 
