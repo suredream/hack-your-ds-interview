@@ -8,9 +8,9 @@
 The Zen of Data Science Review
 - agility is better than faultless
 - practicality beats fancy
-- readability always counts
+- readability always matters
 - topdown
-- uncertainty eternal
+- though eternal, uncertainty has to be eval
 - checklists, standards, knowledgebase and indispensable intellectual curiosity
 ```
 
