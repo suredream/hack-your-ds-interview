@@ -4,13 +4,14 @@
 
 欢迎投稿和建议，请[提交 issue](https://github.com/suredream/hack-your-ds-interview/issues)。
 
+```
 The Zen of Data Science Review
-
 - agility is better than faultless
 - practicality beats fancy
 - readability always counts
 - topdown
 - uncertainty eternal
+```
 
 # 如何参与
 
