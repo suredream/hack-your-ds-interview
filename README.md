@@ -10,8 +10,8 @@ The Zen of Data Science Review (by suredream)
 - practicality beats fancy
 - readability always matters
 - topdown
-- though eternal, uncertainty has to be eval
-- checklists, standards, knowledgebase and indispensable intellectual curiosity
+- though eternal, uncertainty has to be measurable
+- indispensable intellectual curiosity
 ```
 
 # 如何参与
