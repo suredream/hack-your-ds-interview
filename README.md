@@ -11,6 +11,7 @@ The Zen of Data Science Review
 - readability always counts
 - topdown
 - uncertainty eternal
+- checklists, standards, knowledgebase and indispensable intellectual curiosity
 ```
 
 # 如何参与
