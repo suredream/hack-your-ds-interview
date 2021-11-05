@@ -95,6 +95,20 @@ The Zen of Data Science Review (by suredream)
   * [**7. 40 questions on Statistics for data scientists & analysts - Part - 1**](https://www.analyticsvidhya.com/blog/2016/08/solutions-for-skilltest-in-statistics-revealed/)
   * [**8. 41 questions on Statistics for data scientists & analysts - Part - 2**](https://www.analyticsvidhya.com/blog/2017/05/41-questions-on-statisitics-data-scientists-analysts/)
 
+
+# Presentations
+- [How to Become a Data Scientist](http://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
+- [Introduction to Data Science](http://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
+- [Intro to Data Science for Enterprise Big Data](http://www.slideshare.net/pacoid/intro-to-data-science-for-enterprise-big-data)
+- [How to Interview a Data Scientist](http://www.slideshare.net/dtunkelang/how-to-interview-a-data-scientist)
+- [How to Share Data with a Statistician](https://github.com/jtleek/datasharing)
+- [The Science of a Great Career in Data Science](http://www.slideshare.net/katemats/the-science-of-a-great-career-in-data-science)
+- [What Does a Data Scientist Do?](http://www.slideshare.net/datasciencelondon/big-data-sorry-data-science-what-does-a-data-scientist-do)
+- [Building Data Start-Ups: Fast, Big, and Focused](http://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
+- [How to win data science competitions with Deep Learning](http://www.slideshare.net/0xdata/how-to-win-data-science-competitions-with-deep-learning)
+- [Full-Stack Data Scientist](https://www.slideshare.net/AlexeyGrigorev/fullstack-data-scientist)
+
+
 # Contributor list
 
 - [suredream](https://github.com/suredream): San Francisco, ml dl cv geospatial bigdata mlops
