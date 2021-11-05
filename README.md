@@ -12,7 +12,7 @@
 # 如何进行 weekly review meeting
 
 - 会前，由本周 host
-  * 选择并发布本周的 notebook ([example](https://app.reviewnb.com/suredream/hack-your-ds-interview/blob/main/001-titanic-random-forest-82-78.ipynb))
+  * 选择并发布本周的 notebook ([example](https://app.reviewnb.com/suredream/hack-your-ds-interview/blob/main/notebook%2F001-titanic-random-forest-82-78.ipynb))
   * 更新日程到本 repo
   * 提供与本周 review 有关的参考列表到[这里](https://github.com/suredream/hack-your-ds-interview/issues)。
 - 会前，参与者
