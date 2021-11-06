@@ -95,7 +95,7 @@ by suredream
 | Date Time     | Host     | Facilitator | 主题 | 详情                   |
 | ------------- | -------- | ----------- | ---- | ---------------------- |
 | Nov, 13, 2021 | Zhang    | suredream   |      | [详情](../../issues/1) |
-| Nov, 20, 2021 | tanghong |             |      | [详情](../../issues/2) |
+| Nov, 20, 2021 | Hong     |             | A Takehome Example     | [详情](../../issues/2) |
 
 
 ## Guidance
