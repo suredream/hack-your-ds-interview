@@ -59,11 +59,11 @@ The Zen of Data Science Review (by suredream)
 
 # 日程安排
 
-|  Date Time    | Host  | Facilitator | 主题  | 详情 | 会议 |
-|---------------|-------|-------|-------|---------------| ----|
-| Nov, 13, 2021 | Zhang | [suredream](https://github.com/suredream)      |    | [详情](https://github.com/suredream/hack-your-ds-interview/issues/1)              | [<img src="img/skype-meeting.png" width="32" height="32">](https://join.skype.com/WzRQJuTDFrMe)
-| Nov, 20, 2021 | [stanghong](https://github.com/stanghong)          |    |    |  | [详情](https://github.com/suredream/hack-your-ds-interview/issues/2)              |
-|               |       |       |       |               |
+| Date Time     | Host                                      | Facilitator                               | 主题 | 详情                                                                 | 会议                                                                                            |
+| ------------- | ----------------------------------------- | ----------------------------------------- | ---- | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Nov, 13, 2021 | Zhang                                     | [suredream](https://github.com/suredream) |      | [详情](issues/1) | [<img src="img/skype-meeting.png" width="32" height="32">](https://join.skype.com/WzRQJuTDFrMe) |
+| Nov, 20, 2021 | [stanghong](https://github.com/stanghong) |                                           |      |                                                                      | [详情](https://github.com/suredream/hack-your-ds-interview/issues/2)                            |
+|               |                                           |                                           |      |                                                                      |                                                                                                 |
 
 
 # Guidance
