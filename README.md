@@ -68,6 +68,17 @@ by suredream
 - 讨论结束时，从自己的角度提供小结
 - 会后，生成完整文档供 host 进一步审定
 
+## 如果你是 invited reviewer
+- 我们需要经验丰富的你来提供洞见，通过你的 comments 来说明业界的最佳实践
+- 你的专业意见会被记录在每周的文档中，并注明出处
+- 你会在我们的社群里成为有影响力的专业人士，你对于 wiki 和社区的意见会受到特别的重视
+- 我们会努力让你同样能够受惠于社区的文档，on the top
+
+## 如果你是 ML student
+- 我们需要你问好的问题，收集和记录好的答案
+- 你可以在 [issue区](https://github.com/suredream/hack-your-ds-interview/issues) 提请大家注意新的文献、模型、工具。
+- 你可以在群里寻找 mentor，并建立[互惠的 mentorship 关系](../../issues/7)。
+
 ## 如何使用 reviewnb 在 notebook 上进行评论
 
 阅读[其文档](https://docs.reviewnb.com/)。
