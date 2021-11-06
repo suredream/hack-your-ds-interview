@@ -4,8 +4,10 @@
 
 欢迎投稿和建议，请[提交 issue](https://github.com/suredream/hack-your-ds-interview/issues)。
 
+
+## The Zen of Data Science Review
 ```
-The Zen of Data Science Review (by suredream)
+by suredream
 - agility is better than faultless
 - practicality beats fancy
 - readability always matters
@@ -14,12 +16,13 @@ The Zen of Data Science Review (by suredream)
 - indispensable intellectual curiosity
 ```
 
-# 如何参与
+## 如何参与
 
 - 成为社群成员，[介绍自己](https://github.com/suredream/hack-your-ds-interview/issues/3)，为本 repo 和 [wiki](https://github.com/suredream/hack-your-ds-interview/wiki) 贡献有价值的内容或提供反馈。
 - 尽量参与weekly review meeting，成为主理人 (host) 和协理人 (facilitator)。
+- 永久 Skype 会议链接: [<img src="img/skype-meeting.png" width="32" height="32">](https://join.skype.com/WzRQJuTDFrMe)
 
-# 如何进行 weekly review meeting
+## 如何进行 weekly review meeting
 
 - 会前，由本周 host
   * 选择并发布本周的 notebook ([example](https://app.reviewnb.com/suredream/hack-your-ds-interview/blob/main/notebook%2F001-titanic-random-forest-82-78.ipynb))
@@ -37,47 +40,45 @@ The Zen of Data Science Review (by suredream)
   * host / facilitator 进行小结 (10min)
   * 确定下期活动的 host 和 facilitator (5min)
 
-# 如果你是 host
+## 如果你是 host
 - fork 这个 repo
 - 选一个有代表性的实验 notebook，上传到 repo 中，提交 PR
 - 在群中发布消息，notebook 的简要介绍，reviewnb 地址，更新日程
 - 根据上小节内容组织讨论，分享你了解的知识，提供充足和准确的参考材料
 - 持续地更新和维护文档
 
-# 如果你是 facilitator
+## 如果你是 facilitator
 - 不需要你对本议题有很充分的了解，你通过分担 host 工作量的方式来贡献社区
 - 帮助发布活动消息，帮助回答非技术性的问题
 - 在会议过程中记录详细讨论，尝试区分要点和重要信息
 - 讨论结束时，从自己的角度提供小结
 - 会后，生成完整文档供 host 进一步审定
 
-# 如何使用 reviewnb 在 notebook 上进行评论
+## 如何使用 reviewnb 在 notebook 上进行评论
 
 阅读[其文档](https://docs.reviewnb.com/)。
 ![](https://uploads-ssl.webflow.com/5ba4ebe021cb91ae35dbf88c/5c7d0095d99ee508018a9878_Screenshot%202019-03-04%20at%204.08.48%20PM.png)
 
 
-# 日程安排
+## 日程安排
 
-| Date Time     | Host                                      | Facilitator                               | 主题 | 详情                                                                 | 会议                                                                                            |
-| ------------- | ----------------------------------------- | ----------------------------------------- | ---- | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| Nov, 13, 2021 | Zhang                                     | [suredream](https://github.com/suredream) |      | [详情](../../issues/1) | [<img src="img/skype-meeting.png" width="32" height="32">](https://join.skype.com/WzRQJuTDFrMe) |
-| Nov, 20, 2021 | [stanghong](https://github.com/stanghong) |                                           |      |                                                                      | [详情](../../issues/2)                            |
-|               |                                           |                                           |      |                                                                      |                                                                                                 |
+永久 Skype 会议链接: [<img src="img/skype-meeting.png" width="32" height="32">](https://join.skype.com/WzRQJuTDFrMe)
+
+| Date Time     | Host     | Facilitator | 主题 | 详情                   |
+| ------------- | -------- | ----------- | ---- | ---------------------- |
+| Nov, 13, 2021 | Zhang    | suredream   |      | [详情](../../issues/1) |
+| Nov, 20, 2021 | tanghong |             |      | [详情](../../issues/2) |
 
 
-#1
-[1](#1)
-
-# Guidance
+## Guidance
 - [springboard: 109 Data Science Interview Questions and Answers](https://www.springboard.com/blog/data-science/data-science-interview-questions/)
 - [10 Ways to Profit from Job Interview Services with No Coaching](https://careerdirectors.com/profit-job-interview-coaching-strategy-services/)
 
-# 飞行规则 flight rules
+## 飞行规则 flight rules
 - [git 飞行规则](flight-rules/git-filght-rules.md)
 - [ml 飞行规则](flight-rules/ml-flight-rules.md)
 
-# Other resource
+## Other resource
 * Readlist
     * [**Precison and Recall**](https://en.wikipedia.org/wiki/Precision_and_recall)
     * [**Gradient Boosting from scratch**](https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d)
@@ -98,7 +99,7 @@ The Zen of Data Science Review (by suredream)
   * [**8. 41 questions on Statistics for data scientists & analysts - Part - 2**](https://www.analyticsvidhya.com/blog/2017/05/41-questions-on-statisitics-data-scientists-analysts/)
 
 
-# Presentations
+## Presentations
 - [How to Become a Data Scientist](http://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
 - [Introduction to Data Science](http://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
 - [Intro to Data Science for Enterprise Big Data](http://www.slideshare.net/pacoid/intro-to-data-science-for-enterprise-big-data)
@@ -111,7 +112,7 @@ The Zen of Data Science Review (by suredream)
 - [Full-Stack Data Scientist](https://www.slideshare.net/AlexeyGrigorev/fullstack-data-scientist)
 
 
-# Contributor list
+## Contributor list
 
 - [suredream](https://github.com/suredream): San Francisco, ml dl cv geospatial bigdata mlops
 - [zhang](): Houston, 2+ years DS
