@@ -4,6 +4,25 @@
 
 欢迎投稿和建议，请[提交 issue](https://github.com/suredream/hack-your-ds-interview/issues)。
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Hacking Your Data Scientist Interview](#hacking-your-data-scientist-interview)
+  - [The Zen of Data Science Review](#the-zen-of-data-science-review)
+  - [如何参与](#%E5%A6%82%E4%BD%95%E5%8F%82%E4%B8%8E)
+  - [如何进行 weekly review meeting](#%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C-weekly-review-meeting)
+  - [如果你是 host](#%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%98%AF-host)
+  - [如果你是 facilitator](#%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%98%AF-facilitator)
+  - [如何使用 reviewnb 在 notebook 上进行评论](#%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-reviewnb-%E5%9C%A8-notebook-%E4%B8%8A%E8%BF%9B%E8%A1%8C%E8%AF%84%E8%AE%BA)
+  - [日程安排](#%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92)
+  - [Guidance](#guidance)
+  - [飞行规则 flight rules](#%E9%A3%9E%E8%A1%8C%E8%A7%84%E5%88%99-flight-rules)
+  - [Other resource](#other-resource)
+  - [Presentations](#presentations)
+  - [Contributor list](#contributor-list)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## The Zen of Data Science Review
 ```
