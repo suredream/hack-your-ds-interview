@@ -78,8 +78,9 @@ by suredream
 
 ## 如果你是 ML student
 - 我们需要你问好的问题，收集和记录好的答案
-- 你可以在 [issue区](https://github.com/suredream/hack-your-ds-interview/issues) 提请大家注意新的文献、模型、工具。
-- 你可以在群里寻找 mentor，并建立[互惠的 mentorship 关系](../../issues/7)。
+- 你可以在 [issue区](https://github.com/suredream/hack-your-ds-interview/issues) 提请大家注意新的文献、模型、工具
+- 你可以在群里寻找 mentor，并建立[互惠的 mentorship 关系](../../issues/7)
+- 帮助宣传我们，使得更多的人参与进来
 
 ## 如何使用 reviewnb 在 notebook 上进行评论
 
