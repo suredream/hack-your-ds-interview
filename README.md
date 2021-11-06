@@ -58,8 +58,8 @@ The Zen of Data Science Review (by suredream)
 
 
 # 日程安排
+[![join Skype conference-call](img/skype-meeting.png)](https://join.skype.com/WzRQJuTDFrMe)
 
-[Skype conference-call](https://join.skype.com/WzRQJuTDFrMe)
 |  Date Time    | Host  | Facilitator | 主题  | 详情 |
 |---------------|-------|-------|-------|---------------|
 | Nov, 13, 2021 | Zhang | [suredream](https://github.com/suredream)      |    | [详情](https://github.com/suredream/hack-your-ds-interview/issues/1)              |
