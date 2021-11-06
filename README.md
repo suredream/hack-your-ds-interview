@@ -6,9 +6,6 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [Hacking Your Data Scientist Interview](#hacking-your-data-scientist-interview)
   - [The Zen of Data Science Review](#the-zen-of-data-science-review)
   - [如何参与](#%E5%A6%82%E4%BD%95%E5%8F%82%E4%B8%8E)
   - [如何进行 weekly review meeting](#%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C-weekly-review-meeting)
