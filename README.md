@@ -94,9 +94,8 @@ by suredream
 
 | Date Time     | Host     | Facilitator | 主题 | 详情                   |
 | ------------- | -------- | ----------- | ---- | ---------------------- |
-| Nov, 13, 2021 | Zhang    | suredream   |      | [详情](../../issues/1) |
-| Nov, 20, 2021 | Hong     |             | A Takehome Example     | [详情](../../issues/2) |
-
+| 11/13/2021 9:30am PST | tanghong | suredream   | take home-randomforest classifier  | [详情](../../issues/2) |
+| 11/21/2021 | Zhang    | tanghong   |      | [详情](../../issues/1) |
 
 ## Guidance
 - [springboard: 109 Data Science Interview Questions and Answers](https://www.springboard.com/blog/data-science/data-science-interview-questions/)
