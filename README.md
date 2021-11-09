@@ -88,7 +88,7 @@ by suredream
 ![](https://uploads-ssl.webflow.com/5ba4ebe021cb91ae35dbf88c/5c7d0095d99ee508018a9878_Screenshot%202019-03-04%20at%204.08.48%20PM.png)
 
 
-## 日程安排
+## Schedule
 
 永久 Skype 会议链接: [<img src="img/skype-meeting.png" width="32" height="32">](https://join.skype.com/WzRQJuTDFrMe)
 
