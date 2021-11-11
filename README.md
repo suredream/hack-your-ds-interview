@@ -20,7 +20,7 @@
 - [Contributor list](#contributor-list)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-<img src="img/logo.png" width="128" height="128">
+<img src="img/logo.png" width="512" height="512">
 
 ## The Zen of Data Science Review
 ```
