@@ -2,6 +2,15 @@
 
 我们是一个交流机器学习实践的社区，通过社群学习的方式来 review 有代表性的 notebook 和 ML 项目，积累机器学习的有效实践、面试经验和知识内容。欢迎投稿和建议，请[提交 issue](https://github.com/suredream/hack-your-ds-interview/issues)。
 
+## Coming events
+
+永久 Skype 会议链接: [<img src="img/skype-meeting.png" width="32" height="32">](https://join.skype.com/WzRQJuTDFrMe)
+| Date Time     | Host     | Facilitator | 主题 | 详情                   |
+| ------------- | -------- | ----------- | ---- | ---------------------- |
+| 11/13/2021 1300 PST | tanghong | suredream   | take home-randomforest classifier  | [详情](../../issues/2) |
+| 11/21/2021 | Zhang    | tanghong   |      | [详情](../../issues/1) |
+| 历史存档 | | | | |
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 - [The Zen of Data Science Review](#the-zen-of-data-science-review)
@@ -88,16 +97,6 @@ by suredream
 阅读[其文档](https://docs.reviewnb.com/)。
 ![](https://uploads-ssl.webflow.com/5ba4ebe021cb91ae35dbf88c/5c7d0095d99ee508018a9878_Screenshot%202019-03-04%20at%204.08.48%20PM.png)
 
-
-## Schedule
-
-永久 Skype 会议链接: [<img src="img/skype-meeting.png" width="32" height="32">](https://join.skype.com/WzRQJuTDFrMe)
-
-| Date Time     | Host     | Facilitator | 主题 | 详情                   |
-| ------------- | -------- | ----------- | ---- | ---------------------- |
-| 11/13/2021 1300 PST | tanghong | suredream   | take home-randomforest classifier  | [详情](../../issues/2) |
-| 11/21/2021 | Zhang    | tanghong   |      | [详情](../../issues/1) |
-
 ## Guidance
 - [springboard: 109 Data Science Interview Questions and Answers](https://www.springboard.com/blog/data-science/data-science-interview-questions/)
 - [10 Ways to Profit from Job Interview Services with No Coaching](https://careerdirectors.com/profit-job-interview-coaching-strategy-services/)
@@ -145,4 +144,3 @@ by suredream
 - [suredream](https://github.com/suredream): San Francisco, ml dl cv geospatial bigdata mlops
 - [zhang](): Houston, 2+ years DS
 - [hong tang](https://github.com/stanghong): Bakerafield TX, 6+ years DS
-
