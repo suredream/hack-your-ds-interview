@@ -2,9 +2,7 @@
 
 我们是一个交流机器学习实践的社区，通过社群学习的方式来 review 有代表性的 notebook 和 ML 项目，积累机器学习的有效实践、面试经验和知识内容。欢迎投稿和建议，请[提交 issue](https://github.com/suredream/hack-your-ds-interview/issues)。
 
-**Coming events**
-
-永久 Skype 会议链接: [<img src="img/skype-meeting.png" width="32" height="32">](https://join.skype.com/WzRQJuTDFrMe)
+**Coming events** 永久 Skype [会议链接](https://join.skype.com/WzRQJuTDFrMe)
 | Date Time     | Host     | Facilitator | 主题 | 详情                   |
 | ------------- | -------- | ----------- | ---- | ---------------------- |
 | 11/13/2021 1300 PST | tanghong | suredream   | take home-randomforest classifier  | [详情](../../issues/2) |
