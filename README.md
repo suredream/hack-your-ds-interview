@@ -95,7 +95,7 @@ by suredream
 
 | Date Time     | Host     | Facilitator | 主题 | 详情                   |
 | ------------- | -------- | ----------- | ---- | ---------------------- |
-| 11/13/2021 9:30am PST | tanghong | suredream   | take home-randomforest classifier  | [详情](../../issues/2) |
+| 11/13/2021 1300 PST | tanghong | suredream   | take home-randomforest classifier  | [详情](../../issues/2) |
 | 11/21/2021 | Zhang    | tanghong   |      | [详情](../../issues/1) |
 
 ## Guidance
