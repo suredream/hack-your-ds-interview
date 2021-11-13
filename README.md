@@ -9,11 +9,15 @@
 | 11/21/2021 | Zhang    | tanghong   |      | [详情](../../issues/1) |
 | 历史存档 | | | | |
 
+**如何参与**
+- 成为社群成员，[介绍自己](https://github.com/suredream/hack-your-ds-interview/issues/3)，为本 repo 和 [wiki](https://github.com/suredream/hack-your-ds-interview/wiki) 贡献有价值的内容或提供反馈。
+- 尽量参与weekly review meeting，成为主理人 (host) 和协理人 (facilitator)。永久 Skype 会议链接: [<img src="img/skype-meeting.png" width="32" height="32">](https://join.skype.com/WzRQJuTDFrMe)
+
+
 ## TOC
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 - [The Zen of Data Science Review](#the-zen-of-data-science-review)
-- [如何参与](#%E5%A6%82%E4%BD%95%E5%8F%82%E4%B8%8E)
 - [如何进行 weekly review meeting](#%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C-weekly-review-meeting)
 - [如果你是 host](#%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%98%AF-host)
 - [如果你是 facilitator](#%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%98%AF-facilitator)
@@ -40,12 +44,6 @@ by suredream
 - though eternal, uncertainty has to be measurable
 - indispensable intellectual curiosity
 ```
-
-## 如何参与
-
-- 成为社群成员，[介绍自己](https://github.com/suredream/hack-your-ds-interview/issues/3)，为本 repo 和 [wiki](https://github.com/suredream/hack-your-ds-interview/wiki) 贡献有价值的内容或提供反馈。
-- 尽量参与weekly review meeting，成为主理人 (host) 和协理人 (facilitator)。
-- 永久 Skype 会议链接: [<img src="img/skype-meeting.png" width="32" height="32">](https://join.skype.com/WzRQJuTDFrMe)
 
 ## 如何进行 weekly review meeting
 
