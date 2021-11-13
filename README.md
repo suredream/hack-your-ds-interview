@@ -2,7 +2,7 @@
 
 我们是一个交流机器学习实践的社区，通过社群学习的方式来 review 有代表性的 notebook 和 ML 项目，积累机器学习的有效实践、面试经验和知识内容。欢迎投稿和建议，请[提交 issue](https://github.com/suredream/hack-your-ds-interview/issues)。
 
-## Coming events
+**Coming events**
 
 永久 Skype 会议链接: [<img src="img/skype-meeting.png" width="32" height="32">](https://join.skype.com/WzRQJuTDFrMe)
 | Date Time     | Host     | Facilitator | 主题 | 详情                   |
@@ -11,6 +11,7 @@
 | 11/21/2021 | Zhang    | tanghong   |      | [详情](../../issues/1) |
 | 历史存档 | | | | |
 
+## TOC
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 - [The Zen of Data Science Review](#the-zen-of-data-science-review)
