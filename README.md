@@ -6,7 +6,7 @@
 | Date Time     | Host     | Facilitator | 主题 | 详情                   |
 | ------------- | -------- | ----------- | ---- | ---------------------- |
 | 11/13/2021 1300 PST | tanghong | suredream   | take home-randomforest classifier  | [详情](../../issues/2) |
-| 11/21/2021 | Zhang    | tanghong   |      | [详情](../../issues/1) |
+| 11/21/2021 1300 PST | tanghong | tanghong   | go-through hospital take-home     | [详情](../../issues/1) |
 | 历史存档 | | | | |
 
 **如何参与**
