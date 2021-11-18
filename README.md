@@ -10,29 +10,8 @@
 | 历史存档 | | | | |
 
 **如何参与**
-- 成为社群成员，[介绍自己](https://github.com/suredream/hack-your-ds-interview/issues/3)，为本 repo 和 [wiki](https://github.com/suredream/hack-your-ds-interview/wiki) 贡献有价值的内容或提供反馈。
-- 尽量参与weekly review meeting，成为主理人 (host) 和协理人 (facilitator)。永久 Skype 会议链接: [<img src="img/skype-meeting.png" width="32" height="32">](https://join.skype.com/WzRQJuTDFrMe)
-
-
-## TOC
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-- [The Zen of Data Science Review](#the-zen-of-data-science-review)
-- [如何进行 weekly review meeting](#%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C-weekly-review-meeting)
-- [如果你是 host](#%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%98%AF-host)
-- [如果你是 facilitator](#%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%98%AF-facilitator)
-- [如果你是 invited reviewer](#%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%98%AF-invited-reviewer)
-- [如果你是 ML student](#%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%98%AF-ml-student)
-- [如何使用 reviewnb 在 notebook 上进行评论](#%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-reviewnb-%E5%9C%A8-notebook-%E4%B8%8A%E8%BF%9B%E8%A1%8C%E8%AF%84%E8%AE%BA)
-- [日程安排](#%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92)
-- [Guidance](#guidance)
-- [飞行规则 flight rules](#%E9%A3%9E%E8%A1%8C%E8%A7%84%E5%88%99-flight-rules)
-- [Other resource](#other-resource)
-- [Presentations](#presentations)
-- [Contributor list](#contributor-list)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-<img src="img/logo.png" width="512" height="512">
+- 成为社群成员，[介绍自己](https://github.com/suredream/hack-your-ds-interview/issues/3)，为本 repo 和 [wiki](https://github.com/suredream/hack-your-ds-interview/wiki) 贡献有价值的内容和反馈。
+- 尽量参与 weekly review meeting，成为主理人 (host) 和协理人 (facilitator)。永久 Skype 会议链接: [<img src="img/skype-meeting.png" width="32" height="32">](https://join.skype.com/WzRQJuTDFrMe)
 
 ## The Zen of Data Science Review
 ```
@@ -45,7 +24,7 @@ by suredream
 - indispensable intellectual curiosity
 ```
 
-## 如何进行 weekly review meeting
+## 如何进行
 
 - 会前，由本周 host
   * 选择并发布本周的 notebook ([example](https://app.reviewnb.com/suredream/hack-your-ds-interview/blob/main/notebook%2F001-titanic-random-forest-82-78.ipynb))
@@ -64,26 +43,26 @@ by suredream
   * 确定下期活动的 host 和 facilitator (5min)
 
 ## 如果你是 host
-- fork 这个 repo
-- 选一个有代表性的实验 notebook，上传到 repo 中，提交 PR
-- 在群中发布消息，notebook 的简要介绍，reviewnb 地址，更新日程
-- 根据上小节内容组织讨论，分享你了解的知识，提供充足和准确的参考材料
-- 持续地更新和维护文档
+- 填写[报名表](https://github.com/suredream/hack-your-ds-interview/issues/3)
+- 联系人会与你协调时间
+- 在群中发布消息，包括，notebook 的简要介绍，reviewnb 地址，更新日程
+- 组织讨论，分享你了解的知识，提供充足和准确的参考材料
+- 持续更新相应的 wiki 页
 
 ## 如果你是 facilitator
-- 不需要你对本议题有很充分的了解，你通过分担 host 工作量的方式来贡献社区
-- 帮助发布活动消息，帮助回答非技术性的问题
-- 在会议过程中记录详细讨论，尝试区分要点和重要信息
+- 不需要你对本议题有很充分的了解，你通过分担 host 的部分工作量
+- 帮助发布活动消息和回答非技术性的问题
+- 在会议过程中作记录，尝试区分要点和重要信息
 - 讨论结束时，从自己的角度提供小结
-- 会后，生成完整文档供 host 进一步审定
+- 会后，协助 host 完成 wiki 页
 
 ## 如果你是 invited reviewer
-- 我们需要经验丰富的你来提供洞见，通过你的 comments 来说明业界的最佳实践
-- 你的专业意见会被记录在每周的文档中，并注明出处
-- 你会在我们的社群里成为有影响力的专业人士，你对于 wiki 和社区的意见会受到特别的重视
-- 我们会努力让你同样能够受惠于社区的文档，on the top
+- 我们需要经验丰富的你来提供洞见和业界的最佳实践
+- 你的专业意见会被记录在 wiki 页中，并注明出处
+- 你会在社群里成为有影响力的专业人士，你的意见会受到特别的重视
+- 我们会努力让你同样能够受惠于社区的文档，on the top 整个行业的发展
 
-## 如果你是 ML student
+## 如果你是 ML beginner
 - 我们需要你问好的问题，收集和记录好的答案
 - 你可以在 [issue区](https://github.com/suredream/hack-your-ds-interview/issues) 提请大家注意新的文献、模型、工具
 - 你可以在群里寻找 mentor，并建立[互惠的 mentorship 关系](../../issues/7)
@@ -94,6 +73,8 @@ by suredream
 阅读[其文档](https://docs.reviewnb.com/)。
 ![](https://uploads-ssl.webflow.com/5ba4ebe021cb91ae35dbf88c/5c7d0095d99ee508018a9878_Screenshot%202019-03-04%20at%204.08.48%20PM.png)
 
+
+<!--
 ## Guidance
 - [springboard: 109 Data Science Interview Questions and Answers](https://www.springboard.com/blog/data-science/data-science-interview-questions/)
 - [10 Ways to Profit from Job Interview Services with No Coaching](https://careerdirectors.com/profit-job-interview-coaching-strategy-services/)
@@ -136,8 +117,4 @@ by suredream
 - [Full-Stack Data Scientist](https://www.slideshare.net/AlexeyGrigorev/fullstack-data-scientist)
 
 
-## Contributor list
-
-- [suredream](https://github.com/suredream): San Francisco, ml dl cv geospatial bigdata mlops
-- [zhang](): Houston, 2+ years DS
-- [hong tang](https://github.com/stanghong): Bakerafield TX, 6+ years DS
+-->
