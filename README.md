@@ -13,7 +13,7 @@
 - 成为社群成员，[介绍自己](https://github.com/suredream/hack-your-ds-interview/issues/3)，为本 repo 和 [wiki](https://github.com/suredream/hack-your-ds-interview/wiki) 贡献有价值的内容和反馈。
 - 尽量参与 weekly review meeting，成为主理人 (host) 和协理人 (facilitator)。永久 Skype 会议链接: [<img src="img/skype-meeting.png" width="32" height="32">](https://join.skype.com/WzRQJuTDFrMe)
 
-## The Zen of Data Science Review
+## The Zen of Reviewing a Notebook
 ```
 by suredream
 - agility is better than faultless
@@ -73,15 +73,16 @@ by suredream
 阅读[其文档](https://docs.reviewnb.com/)。
 ![](https://uploads-ssl.webflow.com/5ba4ebe021cb91ae35dbf88c/5c7d0095d99ee508018a9878_Screenshot%202019-03-04%20at%204.08.48%20PM.png)
 
+## 飞行规则 flight rules
+- [git 飞行规则](flight-rules/git-filght-rules.md)
+- [ml 飞行规则](flight-rules/ml-flight-rules.md)
+
 
 <!--
 ## Guidance
 - [springboard: 109 Data Science Interview Questions and Answers](https://www.springboard.com/blog/data-science/data-science-interview-questions/)
 - [10 Ways to Profit from Job Interview Services with No Coaching](https://careerdirectors.com/profit-job-interview-coaching-strategy-services/)
 
-## 飞行规则 flight rules
-- [git 飞行规则](flight-rules/git-filght-rules.md)
-- [ml 飞行规则](flight-rules/ml-flight-rules.md)
 
 ## Other resource
 * Readlist
