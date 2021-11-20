@@ -5,8 +5,9 @@
 **Coming events** 永久 Skype [会议链接](https://join.skype.com/WzRQJuTDFrMe)
 | Date Time     | Host     | Facilitator | 主题 | 详情                   |
 | ------------- | -------- | ----------- | ---- | ---------------------- |
-| 11/13/2021 1300 PST | tanghong | suredream   | take home-randomforest classifier  | [详情](../../issues/2) |
+| | john | TBD | LSTM | [详情](../../issues/20) |
 | 11/21/2021 1300 PST | tanghong | zhang   | go-through hospital take-home     | [详情](../../issues/1) |
+| 11/13/2021 1300 PST | tanghong | suredream   | take home-randomforest classifier  | [详情](../../issues/2) |
 | 历史存档 | | | | |
 
 **如何参与**
