@@ -1,4 +1,4 @@
-# Ace DS Interview by Review
+# Review to learn and ace your DS interview
 
 > No one is the only person who knows a specific part of the code base. Simply put, code reviews help facilitate knowledge sharing across the code base and across the team.
 
